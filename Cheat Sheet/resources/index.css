@@ -1,0 +1,53 @@
+body {
+    background-color: Lavender;
+  }
+  
+  h1 {
+    font-family: math;
+    text-align: center
+  }
+  
+  h2{
+    color: HotPink;
+    text-align: center;
+    font-family: monospace;
+  }
+  
+  table {
+    font-family: cursive;
+    text-indent: initial;
+    text-align: start;
+    border-spacing: 2px;
+    border-collapse: separate;
+    border: 2px solid darkorchid;
+    margin-left:auto;
+    margin-right:auto;
+    
+  }
+  
+  tbody {
+    border-color: inherit;
+    border-spacing: 2px;
+  }
+  
+  td {
+    border-top: 1px solid darkorchid;
+    text-align: center;
+    font-family: math;
+    border-left: 1px solid indigo;
+    border-right: 1px solid indigo;
+  }
+  
+  tr {
+    display: table-row;
+    border-color: inherit;
+    vertical-align: inherit;
+  }
+  
+  th{
+    background-color: LightCoral;
+  }
+  
+  .tag {
+    background-color: ivory;
+  }
