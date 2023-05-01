@@ -1,0 +1,95 @@
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+div {
+    display: block;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.dimgrey {
+    background-color: #696969;
+    color: #fff;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.gainsboro {
+    background-color: #D3D3D3;
+    color: #000;
+}
+
+.lightslategray {
+    background-color: #778899;
+    color: #fff;
+}
+
+.lightskyblue {
+    background-color: #87CEFA;
+    color: #fff;
+}
+
+.Foldit {
+    font-family: 'Foldit', sans-serif;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.Dancing-Script {
+    font-family: 'Dancing Script', Georgia, 'Times New Roman', Times, serif;
+}
+
+.Caveat {
+    font-family: 'Caveat','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
